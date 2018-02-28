@@ -12,7 +12,7 @@ I am Enrico Glerean, I am a postdoctoral scientist working with Brains, Networks
 
 
 
-![Recently accepted: "Sharing	the	social	world	via	intersubject	neural synchronization"](/images/COiP2018.png){:width="800"}
+[![Recently accepted: "Sharing	the	social	world	via	intersubject	neural synchronization"](/images/COiP2018.png){:width="800"}](http://emotion.utu.fi/wp-content/uploads/2018/02/LNummenmaa_et_al_COiP_18.pdf)
 ###### *Currently in press: <a href="http://emotion.utu.fi/wp-content/uploads/2018/02/LNummenmaa_et_al_COiP_18.pdf">"Sharing the social world via intersubject neural synchronization"</a>. 
 
 ---
