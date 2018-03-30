@@ -12,8 +12,8 @@ I am Enrico Glerean, I am a postdoctoral scientist working with Brains, Networks
 
 
 
-[![Recently accepted: "Sharing	the	social	world	via	intersubject	neural synchronization"](/images/COiP2018.png){:width="800"}](http://emotion.utu.fi/wp-content/uploads/2018/02/LNummenmaa_et_al_COiP_18.pdf)
-###### *Currently in press: <a href="http://emotion.utu.fi/wp-content/uploads/2018/02/LNummenmaa_et_al_COiP_18.pdf">"Sharing the social world via intersubject neural synchronization"</a>. 
+[![Recently accepted: "Distributed affective space represents multiple emotion categories across the human brain"](/images/inpress20180330.png){:width="800"}](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsy018/4956228)
+###### *Currently in press: <a href="https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsy018/4956228">"Distributed affective space represents multiple emotion categories across the human brain"</a>. 
 
 ---
 
