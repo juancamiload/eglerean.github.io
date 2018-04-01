@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Juan Camilo Avendaño Díaz"
 title_separator          : "-"
 name                     : &name "Juan Camilo Avendaño Díaz"
-description              : &description ""
+description              : &description "Description"
 url                      : https://juancamiload.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juancamiload/juancamiload.github.io"
@@ -73,19 +73,19 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : #"UA-114573542-1"
+    tracking_id          : UA-116667342-1
 
 
 # Site Author
 author:
-  name             : "Juan Camilo Avendaño Díaz<br>()"
-  avatar           : #"EG_profile.jpg"
-  bio              : #"Postdoctoral scientist at University of Turku. Data manager at Aalto University. Neuroscience, networks, quantified behaviour, signal processing, web technologies, open data, social cognition, emotions."
-  location         : #"Finland"
+  name             : "Juan Camilo Avendaño Díaz"
+  avatar           : "JCAD_profile.jpg"
+  bio              : "Bio_Description"
+  location         : "Bournemouth, UK"
   employer         : 
-  googlescholar    : #"https://scholar.google.fi/citations?user=sD90SmMAAAAJ&hl=en"
-  email            : #"enrico.glerean@utu.fi"
-  uri              : #"https://eglerean.wordpress.com/"
+  googlescholar    : 
+  email            : "javendanodiaz@bournemouth.ac.uk"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -97,11 +97,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : #"http://fi.linkedin.com/in/enricoglerean"
-  orcid            : #"http://orcid.org/0000-0003-0624-675X"
+  linkedin         : "https://www.linkedin.com/in/juancamiload/"
+  orcid            : "https://orcid.org/0000-0003-0436-4955"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "juancamiload"
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  publons          : #"https://publons.com/author/732978/enrico-glerean#"
+  publons          : 
 
 
 # Reading Files
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Helsinki # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

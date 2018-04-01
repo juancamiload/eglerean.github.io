@@ -3,26 +3,29 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching and Talks"
-    url: /teaching/    
+  - title: "Conference Presentations"
+    url: /conferences/
+
+  - title: "CV"
+    url: /files/Juan_Camilo_Avendano_Diaz_CV.pdf
+
+  - title: "About me"
+    url: /
+
+#  - title: "Teaching and Talks"
+#    url: /teaching/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
     
-  - title: "Software"
-    url: /code/
+#  - title: "Software"
+#    url: /code/
         
-  - title: "News"
-    url: /year-archive/
+#  - title: "News"
+#    url: /year-archive/
       
-  - title: "Blog"
-    url: http://eglerean.wordpress.com/	   
+#  - title: "Blog"
+#    url: http://.wordpress.com/	   
 
-  - title: "CV"
-    url: /files/Enrico_Glerean_CV.pdf
-
-  - title: "About me"
-    url: /
- 
 #  - title: "Guide"
 #    url: /markdown/
